@@ -344,7 +344,7 @@
                             
                             <!-- Play Store Button -->
                             <a 
-                                href="https://play.google.com/store/apps/details?id=com.baikmu.selfcare" 
+                                href="https://play.google.com/store/apps/details?id=com.baikmu.irfandev&pcampaignid=web_share" 
                                 target="_blank" 
                                 class="store-link"
                             >
